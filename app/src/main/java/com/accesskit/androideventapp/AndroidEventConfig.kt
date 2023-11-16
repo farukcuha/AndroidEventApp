@@ -30,7 +30,13 @@ object AndroidEventConfig {
             emoji = "🚀",
             imageUrl = "favori fotoğrafınızın url'i"
         ),
-        // Participant 1
+        Participant(
+            profileImageUrl = "profil resminizin image url'i",
+            name = "isminiz",
+            surname = "Soy isminiz",
+            emoji = "🚀",
+            imageUrl = "favori fotoğrafınızın url'i"
+        ),
         // Participant 2
         // Participant 3
         // Participant 4
