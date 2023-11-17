@@ -36,7 +36,13 @@ object AndroidEventConfig {
         // Participant 4
         // Participant 5
         // Participant 6
-        // Participant 7
+         Participant(
+            profileImageUrl = "https://i.hizliresim.com/9zsd3b6.jpg",
+            name = "Tarık Buğra",
+            surname = "Karakaya",
+            emoji = "🚀",
+            imageUrl = "https://i.hizliresim.com/9zsd3b6.jpg"
+        ),
         // Participant 8
         // Participant 9
         // Participant 10
