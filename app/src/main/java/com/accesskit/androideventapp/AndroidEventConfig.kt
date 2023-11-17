@@ -99,13 +99,7 @@ object AndroidEventConfig {
             emoji = "☝️",
             imageUrl = "https://i.hizliresim.com/qz3dn4z.jpg"
         ),
-        Participant(
-            profileImageUrl = "https://i.hizliresim.com/9rs5d29.jpg",
-            name = "Mehmet",
-            surname = "DAL",
-            emoji = " 😈 ",
-            imageUrl = "https://i.hizliresim.com/4ku4j7d.jpg"
-        ),
+        // Participant 11
         Participant(
             profileImageUrl = "https://i.hizliresim.com/f91y7wq.jpg",
             name = "Zehra",
