@@ -105,6 +105,22 @@ fun MainScreen(
                 }
             }
             item {  Spacer(modifier = Modifier.height(8.dp)) }
+            item { Text(
+                text = "🗓️ 17 Kasım 2023 🗓️",
+                textAlign = TextAlign.Center,
+                modifier = Modifier.fillMaxWidth()
+            ) }
+            item { Text(
+                text = "Düzenlediğimiz 3 günlük Android-Kotlin eğitimine katılan tüm arkadaşlarımıza teşekkürler!",
+                textAlign = TextAlign.Center,
+                modifier = Modifier.fillMaxWidth()
+            )}
+            item { Text(
+                text = "\uD83E\uDD88",
+                textAlign = TextAlign.Center,
+                modifier = Modifier.fillMaxWidth()
+            )}
+            item {  Spacer(modifier = Modifier.height(8.dp)) }
         }
     }
 }
