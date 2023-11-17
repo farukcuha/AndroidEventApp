@@ -10,7 +10,7 @@ object AndroidEventConfig {
             profileImageUrl ="https://media.licdn.com/dms/image/D4D03AQHAZT_pmU_Q3A/profile-displayphoto-shrink_800_800/0/1698855485791?e=1705536000&v=beta&t=23xEXv8i4BN6CE1AoKQsTXp0S_Ez9jdZeraFdFxLzAI",
             name ="Ahmet Faruk",
             surname ="Çuha",
-            emoji ="🦾",
+            emoji ="👽",
             imageUrl = "https://i.hizliresim.com/an0wd4o.jpg"
         ),
         Participant(
