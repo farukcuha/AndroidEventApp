@@ -70,7 +70,8 @@ object AndroidEventConfig {
             name = "Mert",
             surname = "Gökdemir",
             emoji = "🚀",
-            imageUrl = "https://i.hizliresim.com/3mpe6ni.jpg"),
+            imageUrl = "https://i.hizliresim.com/3mpe6ni.jpg"
+        ),
         Participant(
             profileImageUrl = "https://i.hizliresim.com/9zsd3b6.jpg",
             name = "Tarık Buğra",
@@ -78,7 +79,7 @@ object AndroidEventConfig {
             emoji = "🚀",
             imageUrl = "https://i.hizliresim.com/9zsd3b6.jpg"
         ),
-          Participant(
+        Participant(
             profileImageUrl = "https://i.hizliresim.com/jx2utyg.png",
             name = "Ahmet İlhan",
             surname = "SAĞLAM",
@@ -86,48 +87,16 @@ object AndroidEventConfig {
             imageUrl = "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2020%2F02%2F10114608%2FFernando-Alonso.png"
         ),
         Participant(
-            profileImageUrl = "https://i.hizliresim.com/272byun.jpeg",
-            name = "İbrahim Mert",
-            surname = "Akbaş",
-            emoji = "🫂",
-            imageUrl = "https://i.hizliresim.com/pdz0jya.jpeg"
-        ),
-        Participant(
-            profileImageUrl = "https://i.hizliresim.com/n0k42ff.jpg",
-            name = "Serdar",
-            surname = "Yeşiltaş",
-            emoji = "☝️",
-            imageUrl = "https://i.hizliresim.com/qz3dn4z.jpg"
-        ),
-        // Participant 11
-        Participant(
-            profileImageUrl = "https://i.hizliresim.com/f91y7wq.jpg",
-            name = "Zehra",
-            surname = "ULKER",
-            emoji = "🫶",
-            imageUrl = "https://i.hizliresim.com/9kigjxr.jpg"
-        ),
-        Participant(
-            profileImageUrl = "https://i.hizliresim.com/gllc6c0.jpg",
-            name = "Ebrar",
-            surname = "Saygili",
-            emoji = "🥑",
-            imageUrl = "https://i.hizliresim.com/5sptlro.jpg"
-        ),
-        Participant(
-            profileImageUrl = "https://i.hizliresim.com/javbcnh.jpg",
-            name = "Sule",
-            surname = "Yildirim",
-            emoji = "❄️",
-            imageUrl = "https://i.hizliresim.com/wlttd26.jpg",
-        ),
-        Participant(
-            profileImageUrl = "https://i.hizliresim.com/9e7ca5s.jpeg",
-            name = "Zehra",
-            surname = "Akdemir",
-            emoji = "🧕🏽",
-            imageUrl = "https://i.hizliresim.com/tnka5vk.jpeg"
-        ),
+            profileImageUrl = "https://i.hizliresim.com/9rs5d29.jpg",
+            name = "Mehmet",
+            surname = "DAL",
+            emoji = " 😈 ",
+            imageUrl = "https://i.hizliresim.com/4ku4j7d.jpg"
+        ),        
+        // Participant 12
+        // Participant 13
+        // Participant 14
+        // Participant 15
         // Participant 16
         // Participant 17
         // Participant 18
