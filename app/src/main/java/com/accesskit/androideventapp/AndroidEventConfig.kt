@@ -78,7 +78,14 @@ object AndroidEventConfig {
         ),
         // Participant 11
         // Participant 12
-        // Participant 13
+         participants = listOf(
+        Participant(
+            profileImageUrl = "https://i.hizliresim.com/gllc6c0.jpg",
+            name = "Ebrar",
+            surname = "Saygili",
+            emoji = "🥑",
+            imageUrl = "https://i.hizliresim.com/5sptlro.jpg"
+        ),
         // Participant 14
         Participant(
             profileImageUrl = "https://i.hizliresim.com/9e7ca5s.jpeg",
