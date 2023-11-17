@@ -37,7 +37,13 @@ object AndroidEventConfig {
         // Participant 5
         // Participant 6
         // Participant 7
-        // Participant 8
+          Participant(
+            profileImageUrl = "https://i.hizliresim.com/jx2utyg.png",
+            name = "Ahmet İlhan",
+            surname = "SAĞLAM",
+            emoji = "🚀",
+            imageUrl = "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2020%2F02%2F10114608%2FFernando-Alonso.png"
+        ),
         // Participant 9
         // Participant 10
         // Participant 11
