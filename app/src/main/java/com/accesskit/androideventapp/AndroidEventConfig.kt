@@ -46,6 +46,7 @@ object AndroidEventConfig {
             surname = "Yeşiltaş",
             emoji = "☝️",
             imageUrl = "https://hizliresim.com/qz3dn4z][img]https://i.hizliresim.com/qz3dn4z.jpg"
+        ),
         // Participant 11
         // Participant 12
         // Participant 13
