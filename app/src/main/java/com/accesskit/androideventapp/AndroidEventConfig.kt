@@ -30,7 +30,13 @@ object AndroidEventConfig {
             emoji = "🚀",
             imageUrl = "favori fotoğrafınızın url'i"
         ),
-        // Participant 1
+          Participant(
+            profileImageUrl ="https://i.hizliresim.com/5vu2bdk.jpg",
+            name ="Mustafa Esat",
+            surname ="Çalgın",
+            emoji ="🤠",
+            imageUrl = "https://img.piri.net/resim/upload/2023/02/22/03/08/5923483efooax2mwaac4b1x25o.jpg"
+        ),
         // Participant 2
         // Participant 3
         // Participant 4
