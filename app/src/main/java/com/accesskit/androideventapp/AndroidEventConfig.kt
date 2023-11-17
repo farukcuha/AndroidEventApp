@@ -23,13 +23,7 @@ object AndroidEventConfig {
     )
 
     val participants = listOf(
-        Participant(
-            profileImageUrl = "profil resminizin image url'i",
-            name = "isminiz",
-            surname = "Soy isminiz",
-            emoji = "🚀",
-            imageUrl = "favori fotoğrafınızın url'i"
-        ),
+        
         // Participant 1
         // Participant 2
         // Participant 3
@@ -38,7 +32,13 @@ object AndroidEventConfig {
         // Participant 6
         // Participant 7
         // Participant 8
-        // Participant 9
+        Participant(
+            profileImageUrl = "https://i.hizliresim.com/272byun.jpeg",
+            name = "İbrahim Mert",
+            surname = "Akbaş",
+            emoji = "🫂",
+            imageUrl = "https://i.hizliresim.com/pdz0jya.jpeg"
+        )
         // Participant 10
         // Participant 11
         // Participant 12
