@@ -1,4 +1,2 @@
 # AndroidEventApp
-![1](./ss/ss1.png)
-![1](./ss/ss2.png)
-![1](./ss/ss3.png)
+<img src="./ss/ss1.png" alt="Image 1" width="300"/> <img src="./ss/ss2.png" alt="Image 2" width="300"/> <img src="./ss/ss3.png" alt="Image 3" width="300"/>
