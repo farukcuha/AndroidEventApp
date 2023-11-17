@@ -38,11 +38,13 @@ object AndroidEventConfig {
             imageUrl = "https://img.piri.net/resim/upload/2023/02/22/03/08/5923483efooax2mwaac4b1x25o.jpg"
         ),
         // Participant 2
-                 Participant(
+        Participant(
             profileImageUrl = "https://i.hizliresim.com/py5nu41.jpg",
             name = "Şevval",
             surname = "Ayrancı",
+            emoji = "👨🏽‍💻",
             imageUrl = "https://i.hizliresim.com/ec32836.jpg"
+        ),
         Participant(
             profileImageUrl = "https://i.hizliresim.com/itucss9.jpg",
             name = "Berk",
@@ -56,7 +58,7 @@ object AndroidEventConfig {
             name = "Mert",
             surname = "Gökdemir",
             emoji = "🚀",
-            imageUrl = "https://i.hizliresim.com/3mpe6ni.jpg"
+            imageUrl = "https://i.hizliresim.com/3mpe6ni.jpg"),
         // Participant 7
         // Participant 8
         // Participant 9
